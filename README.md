@@ -1,5 +1,5 @@
-#Algorithms and Data structures in javascript
+Algorithms and Data structures in javascript
 
-This repo is full Algorithms and Data structures for JavaScript;
+This repo contains Algorithms and Data structures for JavaScript beginners.
 
-#Author: Yussif Mohammed(CODED)
+Author: Yussif Mohammed(CODED)
